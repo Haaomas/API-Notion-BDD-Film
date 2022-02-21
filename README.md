@@ -1,4 +1,4 @@
-![Création d'une interface visuel pour ma liste de films via l'API de Notion]
+# Création d'une interface visuel pour ma liste de films via l'API de Notion
 
 Mise en place d'une interface graphique pour une visualisation de ma liste de films via l'API de Notion.
 
