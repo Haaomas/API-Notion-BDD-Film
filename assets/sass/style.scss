@@ -1,0 +1,32 @@
+@import "./libs/normalize.scss";
+@import "./libs/mixins";
+@import "./libs/responsive.scss";
+@import "./libs/variables.scss";
+/* Fin du Normalize */
+/*  */
+/* Début du CSS */
+
+//TUTO SCSS
+
+// Lancement avec : (pour actualiser en même temps)
+// sass assets/sass/style.scss assets/style/style.css --watch
+// sass/style.scss style/style.css pour créer le fichier css ou  le liée si il existe
+
+// Heritage
+// pour .btn-particulier {
+//     //Prend tout les éléments de
+// @extend .bnt;
+// //Mais change la suite
+//     background-color: red;
+// }
+
+// Fausse classe
+// %nom-de-class
+// Permet de créer une class général nom compilée..
+
+body {
+    background-color: grey;
+}
+a {
+    background-color: #fff;
+}

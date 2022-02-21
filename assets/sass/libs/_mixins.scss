@@ -1,0 +1,5 @@
+//Sert de fonction en gros et on l'appelle avec @include rotate
+@mixin rotate {
+    -webkit-transform: rotate(10);
+    transform: rotate(10);
+}
